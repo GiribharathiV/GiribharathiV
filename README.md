@@ -2,12 +2,35 @@
 
 ### Tech Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+## Hey there 👋 I'm [Your Name]
 
-- 🌱 I’m currently deepening my skills in Data Structures and Algorithms
-- 👯 I’m looking to collaborate on innovative projects in AI/ML and data science
-- 🤔 I’m open to new opportunities and looking for guidance on excelling in FAANG interviews
-- 💬 Feel free to ask me about anything tech-related
-- 📫 How to reach me:
+### 👨‍💻 About Me:
+```yaml
+{
+  "title": "Passionate Software Engineer",
+  "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "MySQL",
+    "TensorFlow"
+  ],
+  "tools": [
+    "VS Code",
+    "Git",
+    "Excel"
+  ],
+  "currently_learning": "Advanced Data Structures & Algorithms",
+  "collaborating_on": "AI/ML projects",
+  "looking_for": "Opportunities to excel in FAANG interviews",
+  "hobbies": [
+    "Exploring new technologies",
+    "Contributing to open source",
+    "Solving complex problems"
+  ]
+}
+
+- 📫 How to reach me: 
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giribharathi-v-2524a72bb)
 
 ### 🛠️ I code in:
