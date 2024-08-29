@@ -5,30 +5,9 @@
 ## Hey there 👋 I'm [Your Name]
 
 ### 👨‍💻 About Me:
-```yaml
-{
-  "title": "Passionate Software Engineer",
-  "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "MySQL",
-    "TensorFlow"
-  ],
-  "tools": [
-    "VS Code",
-    "Git",
-    "Excel"
-  ],
-  "currently_learning": "Advanced Data Structures & Algorithms",
-  "collaborating_on": "AI/ML projects",
-  "looking_for": "Opportunities to excel in FAANG interviews",
-  "hobbies": [
-    "Exploring new technologies",
-    "Contributing to open source",
-    "Solving complex problems"
-  ]
-}
+- 🌱 Currently honing my skills in Data Structures and Algorithms
+- 🚀 Collaborating on cutting-edge AI/ML projects
+- 🎯 Aiming for excellence in FAANG-level problem-solving
 
 - 📫 How to reach me: 
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giribharathi-v-2524a72bb)
@@ -37,6 +16,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
 
 ### 🛠️ Tools I Use:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>
 
 
