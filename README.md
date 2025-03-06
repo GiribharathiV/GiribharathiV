@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 🌱 Currently honing my skills in Data Structures and Algorithms
-- 🚀 Collaborating on cutting-edge AI/ML projects
+- 🚀 Collaborating on cutting-edge DS & AI/ML projects
 - 🎯 Aiming for excellence in FAANG-level problem-solving
 
 - 📫 How to reach me: 
